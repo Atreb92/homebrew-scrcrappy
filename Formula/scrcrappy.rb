@@ -3,7 +3,7 @@
 class Scrcrappy < Formula
   desc "Mirror and control an iPhone over USB (scrcpy for iOS)"
   homepage "https://github.com/atreb92/scrcrappy"
-  url "https://github.com/atreb92/scrcrappy/archive/refs/tags/v0.2.1.tar.gz"
+  url "https://github.com/Atreb92/scrcrappy/archive/refs/tags/v0.2.1.tar.gz"
   sha256 "726383997f2a92a31cbe6d8dfdc822b7205407907f5da8dcf94fe3514ad96019"
   license "MIT"
 
