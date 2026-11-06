@@ -4,8 +4,8 @@
 class Scrcrappy < Formula
   desc "Mirror and control an iPhone over USB (scrcpy for iOS)"
   homepage "https://github.com/atreb92/scrcrappy"
-  url "https://github.com/Atreb92/scrcrappy/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "ab0034c7d6ff3f7669ec7e8718566ab7106a3ab5a60343b15edba3817fc21847"
+  url "https://github.com/Atreb92/scrcrappy/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "99dbcf135d1c6dfba6cea8effba6d3a5068f20212739d0e44108985ff6899840"
   license "MIT"
 
   depends_on "libusb"
